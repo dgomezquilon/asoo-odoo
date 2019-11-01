@@ -34,10 +34,6 @@
 	path = addons/OCA/bank-statement-import
 	url = https://github.com/OCA/bank-statement-import.git
 	branch = 13.0
-[submodule "addons/OCA/connector"]
-	path = addons/OCA/connector
-	url = https://github.com/OCA/connector.git
-	branch = 13.0
 [submodule "addons/OCA/credit-control"]
 	path = addons/OCA/credit-control
 	url = https://github.com/OCA/credit-control.git
